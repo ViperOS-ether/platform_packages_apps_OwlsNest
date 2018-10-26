@@ -601,4 +601,8 @@
     <string name="battery_bar_gradient_color_summary">Use gradient color as a scale for the battery level</string>
     <string name="battery_bar_high_color">High level color"</string>
     <string name="battery_bar_low_color">Low level color"</string>
+
+    <!-- QuickSettings Panel Transparency -->
+    <string name="qs_panel_alpha_category">Advanced panel theming</string>
+    <string name="qs_panel_alpha_title">QS panel opacity</string>
 </resources>
