@@ -44,8 +44,6 @@ import android.view.View;
 import com.aosip.owlsnest.preference.CustomSeekBarPreference;
 import com.aosip.owlsnest.preference.SystemSettingSwitchPreference;
 
-import com.aosip.owlsnest.R;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
